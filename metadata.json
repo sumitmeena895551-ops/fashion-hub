@@ -1,0 +1,6 @@
+{
+  "name": "FASHION HUB - Premium Indian Fashion & Streetwear",
+  "description": "Client-ready demo website for FASHION HUB, a modern Indian streetwear and premium fashion brand with customizable configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
